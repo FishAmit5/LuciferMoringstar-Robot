@@ -11,8 +11,7 @@
       "bot"
     ],
     "website": "https://www.youtube.com/channel/UCohk_mpuW8SpgZMyOzRdKcA",
-    "repository": "https://github.com/bossstory/LuciferMoringstar-Robot",
-    "env": {
+    "repository": "https://github.com/FishAmit5/LuciferMoringstar-Robot    "env": {
         "BOT_TOKEN": {
             "description": "Your Bot Token From BOT FATHER",
             "value": ""
